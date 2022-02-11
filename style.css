@@ -1,0 +1,45 @@
+body {
+    background-color: lightblue;
+}
+
+#app_name {
+    background-color: lightpink;
+    color:aliceblue;
+    font-size: 30px;
+    font-family:fantasy;
+    box-shadow: 10px 10px 40px yellow;
+}
+
+#object_name, #accuracy_name {
+    background-color: lightpink;
+    color:aliceblue;
+    font-size: 22px;
+    font-family: cursive;
+}
+
+#info {
+    float: none;
+    background-color: lightpink;
+    color:aliceblue;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 10px 10px 40px yellow;
+    margin-bottom: 15px;
+}
+
+#developer {
+    background-color: lightpink;
+    color:aliceblue;
+    font-size: 22px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: fixed;
+    bottom: 5px;
+    width: 100%;
+    text-align: center;
+    box-shadow: 10px 10px 40px yellow;
+}
+
+canvas {
+    margin-top: 120px;
+    margin-bottom: 30px;
+}
